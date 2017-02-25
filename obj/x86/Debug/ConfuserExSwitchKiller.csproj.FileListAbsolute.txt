@@ -1,0 +1,8 @@
+C:\Users\Solomatov\Downloads\ConfuserEx Collection\ConfuserEx Collection\ConfuserExSwitchKillerSrc\bin\Debug\ConfuserExSwitchKiller.exe
+C:\Users\Solomatov\Downloads\ConfuserEx Collection\ConfuserEx Collection\ConfuserExSwitchKillerSrc\bin\Debug\ConfuserExSwitchKiller.pdb
+C:\Users\Solomatov\Downloads\ConfuserEx Collection\ConfuserEx Collection\ConfuserExSwitchKillerSrc\bin\Debug\de4dot.blocks.dll
+C:\Users\Solomatov\Downloads\ConfuserEx Collection\ConfuserEx Collection\ConfuserExSwitchKillerSrc\bin\Debug\dnlib.dll
+C:\Users\Solomatov\Downloads\ConfuserEx Collection\ConfuserEx Collection\ConfuserExSwitchKillerSrc\bin\Debug\dnlib.xml
+C:\Users\Solomatov\Downloads\ConfuserEx Collection\ConfuserEx Collection\ConfuserExSwitchKillerSrc\obj\x86\Debug\ConfuserExSwitchKiller.csprojResolveAssemblyReference.cache
+C:\Users\Solomatov\Downloads\ConfuserEx Collection\ConfuserEx Collection\ConfuserExSwitchKillerSrc\obj\x86\Debug\ConfuserExSwitchKiller.exe
+C:\Users\Solomatov\Downloads\ConfuserEx Collection\ConfuserEx Collection\ConfuserExSwitchKillerSrc\obj\x86\Debug\ConfuserExSwitchKiller.pdb
